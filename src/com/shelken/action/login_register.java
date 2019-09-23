@@ -9,7 +9,7 @@ public class login_register extends ActionSupport{
 		return "login";
 	}
 	public String register() {
-		int i = 1;
+		int i = 2;
 		return "register";
 
 	}
